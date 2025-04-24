@@ -1,6 +1,6 @@
 import os
 from aiogram import Bot, Dispatcher, types
-from aiogram.types import ParseMode
+from aiogram.utils import ParseMode
 from aiogram.utils import executor
 from data.config import API_ID, API_HASH
 
